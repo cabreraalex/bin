@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo Getting to work!
+cd
+cd ~/Development/python/django/cavalcade/cavalcade
+source ~/virt-env/cavalcade/bin/activate
+
